@@ -7,7 +7,7 @@ Pizza REST API with full CRUD operations built with ASP.NET Core controllers.
 ![GET all pizzas](./screenshots/get-pizzas.png)
 
 ### POST new pizza — `201 Created`
-![POST pizza](./screenshots/post-new.png)
+![POST pizza](./screenshots/post-new-pizza.png)
 
 ### PUT update pizza — `204 No Content`
 ![PUT pizza response](./screenshots/put-pizza-response.png)
@@ -29,7 +29,7 @@ Console app that reads store sales data and generates a summary report.
 Output from `mslearn-dotnet-files/salesReport/report.txt`:
 
 [View report.txt](./mslearn-dotnet-files/salesReport/report.txt)
-
+```
 Sales Summary 
 ----------------------
 Total Sales: $1,923.32
@@ -39,7 +39,7 @@ Details:
 202 sales.json: $1,234.22
 203 sales.json: $99.00
 204 sales.json: $88.88
-
+```
 ## mydotnet
 Debugging tutorial using a Fibonacci sequence to explore `System.Diagnostics`.
 
